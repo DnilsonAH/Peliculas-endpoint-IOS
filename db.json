@@ -1,0 +1,25 @@
+{
+  "peliculas": [
+    {
+      "duracion": 210,
+      "id": 1,
+      "categoria": "Comedia",
+      "imagen": "https://i.blogs.es/4a9cb1/titanic/1366_2000.jpeg",
+      "nombre": "Titanic"
+    },
+    {
+      "duracion": 150,
+      "id": 4,
+      "categoria": "Otro",
+      "imagen": "https://commonreader.wustl.edu/app/uploads/2017/02/hamilton-website.jpg",
+      "nombre": "HAMILTON"
+    },
+    {
+      "duracion": 150,
+      "id": 5,
+      "categoria": "Drama",
+      "imagen": "https://preview.redd.it/r3cd5lf88yj81.png?auto=webp&s=2169f23199e99445ab2cee153771ee653b313603",
+      "nombre": "Violet evergarden"
+    }
+  ]
+}
